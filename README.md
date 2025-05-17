@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanjana-vivek
 - 👀 I’m interested in aerospace programming
-- 🌱 I’m currently learning web dev :)
+- 🌱 I’m currently learning ML ops :)
 
 <!---
 sanjana-vivek/sanjana-vivek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
